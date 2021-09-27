@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonasmanhezi
 - 👀 I’m interested in C#,Flutter and Javascript.
-- 🌱 I’m currently learning C# And Flutter
+- 🌱 I’m currently learning C#, Flutter and Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @jhowmanhezi on instagram.
 
