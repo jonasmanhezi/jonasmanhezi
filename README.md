@@ -1,6 +1,6 @@
-<h1 align="center">Olá Mundo! Meu nome é Jonas Manhezi 👨‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">Sou um apaixonado por tecnologia focado em me tornar um Desenvolvedor Full-Stack.</h3>
+
+<h3 align="center">Full Stack DEV.</h3>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasmanhezi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -34,14 +34,6 @@
 </div>
 
 ##
-
-<h3 align="center">Conquistas Pessoais: 🏆 </h3>
-
-##
-
-- Segundo melhor projeto de estagio Da Scania Brasil em 2021. (2/62)
-
-- Participação, Desenvolvimento e Entrega de 7 Sistemas.
 
 
 
